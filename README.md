@@ -1,74 +1,16 @@
-# Hi, I'm Farheen Arif Ahmed 👋
+[ReadMe.md](https://github.com/user-attachments/files/34224656/ReadMe.md)
+# 💫 About Me:
+💻 IT professional with interests in computer networking, cybersecurity, cloud technologies, and technical project management.<br><br>🔐 **Current Research:** Developing and validating a cost-effective network segmentation and cyber resilience framework for small U.S. manufacturing businesses.<br><br>🧪 **Hands-on Labs:** Building and documenting network configurations, connectivity testing, VLAN segmentation, and security concepts using Cisco Packet Tracer.<br><br>📚 **Currently Exploring:** Network security, cloud infrastructure, IT automation, and cybersecurity best practices.<br><br>🎥 **Educational Content:** Creating practical IT and cybersecurity tutorials to help beginners understand technical concepts.<br><br>🔗 **Featured Research Project:** [Small Manufacturing Network Resilience](https://github.com/farheenrf/small-manufacturing-network-resilience)
 
-## Enterprise IT & Network Professional
 
-I am building a hands-on technical portfolio focused on enterprise IT support, network infrastructure, Microsoft cloud technologies, automation, and technical project delivery.
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=farheenrf&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=farheenrf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=farheenrf&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-My goal is to combine technical troubleshooting with structured delivery, clear documentation, stakeholder communication, and continuous improvement.
+---
+[![](https://komarev.com/ghpvc/?username=farheenrf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Technical Focus
-
-### Enterprise IT Support
-- Microsoft 365 administration and troubleshooting
-- Microsoft Entra ID user and group management
-- Identity, access, MFA, SSPR, and role-based access
-- Incident, service request, escalation, and knowledge management
-- Windows, Outlook, Teams, OneDrive, VPN, DNS, and connectivity support
-
-### Network Infrastructure
-- Cisco routing and switching
-- VLANs, trunking, STP, EtherChannel, OSPF, BGP, NAT, and ACLs
-- DHCP, DNS, VPN, wireless, and network troubleshooting
-- Wireshark, monitoring, and incident analysis
-- Network security and infrastructure documentation
-
-### Cloud & Automation
-- Microsoft Azure
-- AWS fundamentals
-- PowerShell
-- Python
-- SQL
-- Microsoft Graph
-- REST APIs
-- Git and GitHub
-
-### Technical Project Delivery
-- Agile and Scrum delivery
-- Project planning and scheduling
-- RAID logs and dependency management
-- Stakeholder communication
-- Release and change management
-- Infrastructure migration and cutover planning
-- Status reporting and continuous improvement
-
-## Portfolio Projects
-
-Projects being developed include:
-
-- Enterprise IT Support Lab
-- Microsoft Entra ID and Microsoft 365 Administration Lab
-- PowerShell and Python IT Automation
-- Azure Cloud Infrastructure Lab
-- Network Engineering and Packet Tracer Labs
-- Enterprise Content Management Case Study
-- Technical Project Delivery Portfolio
-- AI-Assisted Network Incident Triage with Slack Alerts
-
-## Certifications
-
-- Microsoft Certified: Azure Fundamentals — AZ-900
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals — SC-900
-- Cisco CCNA 200-301 — In Progress
-
-## Current Learning
-
-- Microsoft Entra ID and Microsoft Graph PowerShell
-- Enterprise IT support and managed services
-- Cisco networking and troubleshooting
-- Azure cloud infrastructure
-- Network and identity automation
-- Enterprise Content Management concepts
-
-## Portfolio Notice
-
-All labs, client names, users, IP addresses, tickets, and business scenarios presented in this portfolio are fictional or sanitized for learning and demonstration purposes.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
